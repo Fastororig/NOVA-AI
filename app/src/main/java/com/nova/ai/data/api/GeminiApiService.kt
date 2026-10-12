@@ -2,6 +2,7 @@ package com.nova.ai.data.api
 
 import com.google.gson.Gson
 import com.nova.ai.data.model.*
+import com.nova.ai.ui.screens.ChatMessage
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import okhttp3.*
